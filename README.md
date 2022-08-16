@@ -1,4 +1,4 @@
-# calculadora-js
+# Calculadora-js
 
 /* Calculadora desenvolvida em JavaScript */
 
